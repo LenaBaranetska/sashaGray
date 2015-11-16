@@ -1,0 +1,8 @@
+# Ignore folder bin
+Site/bin/
+
+# Ignore folder obj
+Site/obj/
+
+# Ignore folder obj
+Site.v11.suo
